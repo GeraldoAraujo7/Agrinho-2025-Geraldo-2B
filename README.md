@@ -25,10 +25,10 @@ O site foi criado com o objetivo de representar visualmente, por meio da program
 ## 📁 Estrutura do Projeto
 
 Agrinho-2025-Geraldo-2B/
-│
-├── index.html → Página principal do site
-├── style.css → Estilização visual (cores, layout, fontes)
-└── assets/ → Imagens e mídias utilizadas
+
+- index.html → Página principal do site
+- style.css → Estilização visual (cores, layout, fontes)
+- assets/ → Imagens e mídias utilizadas
 
 ## 📎 Link de Acesso
 
