@@ -37,11 +37,13 @@ Acesse o site publicado:
 
 ## 🏫 Informações do Participante
 
-- **Nome:** Geraldo José Oliveira Araújo  
+- **Nome:** Geraldo José Oliveira Araújo
+- **Nome do Professor(a):** Gabrieli Rizzi
 - **Série:** 2ª série do Ensino Médio  
 - **Subcategoria:** Programação Front-End (HTML + CSS)  
-- **Escola:** [Insira o nome da escola aqui]  
-- **NRE:** [Insira o seu Núcleo Regional de Educação]
+- **Escola:** Cólegio Estadual Ricardo Lunardelli   
+- **NRE:** Londrina
+  
 
 ## 📚 Fontes e Créditos
 
